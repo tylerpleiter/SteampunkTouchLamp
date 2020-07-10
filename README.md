@@ -1,5 +1,7 @@
 # SteampunkTouchLamp (In Progress)
 
+![alt text](
+
 ## Description:
 
 A steampunk inspired touch lamp. 
