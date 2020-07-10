@@ -4,7 +4,7 @@
 
 ## Description:
 
-A steampunk inspired touch lamp with a glass center chamber filled with oil, bubbles and an LED. Touch sensitive copper bars turn the lamp from OFF->LED->Main_Globe->OFF. Bubbles are controled using red tap valve connected to rotary encoder. 
+A steampunk inspired touch lamp with a glass center chamber filled with oil, bubbles and an LED. Touch sensitive copper bars turn the lamp from OFF->LED->Main_Globe->OFF using a custom designed PCB. Bubbles are controled using red tap valve connected to rotary encoder. 
 
 ## Progress:
 
