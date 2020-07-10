@@ -1,6 +1,6 @@
 # SteampunkTouchLamp (In Progress)
 
-![alt text](
+![alt text](https://github.com/tylerpleiter/SteampunkTouchLamp/blob/master/BuildImages/05_Lamp-Assembled.jpg "Steampunk Touch Lamp")
 
 ## Description:
 
